@@ -8,7 +8,7 @@ For information and instructions look up the [bazzite-build](https://github.com/
 
 ### Documentation
 
-[README.md](https://github.com/ublue-os/image-template/blob/7ecec310266dea738e853ffa7bdf063a3368594a/README.md)
+- [README.md](https://github.com/ublue-os/image-template)
 
 ### Update `bazzite-build`
 
