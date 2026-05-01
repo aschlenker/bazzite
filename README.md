@@ -15,3 +15,10 @@ For information and instructions look up the [bazzite-build](https://github.com/
 ```bash
 git submodule update --remote
 ```
+
+### Format
+
+```bash
+npx prettier --write README.md
+just fix
+```
