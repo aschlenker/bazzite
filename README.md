@@ -20,5 +20,6 @@ git submodule update --init --recursive --remote
 
 ```bash
 npx prettier --write README.md
+npx prettier --write .github/*
 just fix
 ```
